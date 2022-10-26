@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/senpai/static/css/main.073c9b0a.css",
-    "main.js": "/senpai/static/js/main.6efe4f31.js",
+    "main.css": "/senpai/static/css/main.e6c13ad2.css",
+    "main.js": "/senpai/static/js/main.34a0d7f1.js",
     "static/js/787.6a15d23a.chunk.js": "/senpai/static/js/787.6a15d23a.chunk.js",
-    "static/media/logo.svg": "/senpai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/senpai/index.html",
-    "main.073c9b0a.css.map": "/senpai/static/css/main.073c9b0a.css.map",
-    "main.6efe4f31.js.map": "/senpai/static/js/main.6efe4f31.js.map",
+    "main.e6c13ad2.css.map": "/senpai/static/css/main.e6c13ad2.css.map",
+    "main.34a0d7f1.js.map": "/senpai/static/js/main.34a0d7f1.js.map",
     "787.6a15d23a.chunk.js.map": "/senpai/static/js/787.6a15d23a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6efe4f31.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.34a0d7f1.js"
   ]
 }
